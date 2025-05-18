@@ -55,3 +55,5 @@ func love(value_of_love int) {
 		fmt.Println("Время спонтанного секса!")
 	}
 }
+
+aaa
